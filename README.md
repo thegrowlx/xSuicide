@@ -1,8 +1,3 @@
-# xSuicide
-Simple Spigot plugin that lets players commit suicide and kill other players with the command /kill
+# thegrowl's plugins
 
-Commands | Permissions:
-/kill | xsuicide.self
-/kill <player> | xsuicide.others
-
-- Download under "Releases"
+This repository is for all thegrowl's plugins
