@@ -1,0 +1,7 @@
+main: me.thegrowl.xsuicide.Main
+name: xSuicide
+version: 1.2
+author: thegrowl
+
+commands:
+  kill:
